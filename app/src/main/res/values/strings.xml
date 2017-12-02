@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TicheTelefonovani</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Tiche Telefonovani</string>
+    <string name="login_button">Login</string>
+    <string name="stream_id">STREAM_ID</string>
+    <string name="model">CS_CZ</string>
 </resources>
